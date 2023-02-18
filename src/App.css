@@ -2,9 +2,16 @@ ul{
   margin: 0;
   padding: 0;
 }
+.nav-link{
+    color:aliceblue
+}
+.nav-link:hover{
+  color:aliceblue
+}
 ul li a:hover{
   cursor: pointer;
+  color:bisque
 }
- .MuiTabs-vertical {
+.MuiTabs-vertical{
   width: 250px!important;
- }
+}
